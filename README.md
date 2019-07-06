@@ -5,4 +5,6 @@ Your mission, is to go through the 5 floors inside the castle, battling through 
 and reach the boss room where the giant is located. 
 Defeat the giant, obtain the ingrediants, return to the goblin, game complete. 
 
-More will be added soon. 
+Game has been updated into Unity3D, video gameplay coming soon. 
+
+https://github.com/PalermoX/RPG-Unity-Adventure
